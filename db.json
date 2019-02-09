@@ -1,10 +1,14 @@
-{
-"id": 1,
-"author": "IamSushi#5836",
-"title": "Bot by:",
-},
-{
-"id": 2,
-"author": "Moderator+#4797",
-"title": "Bot Tag:",
-}
+[
+  {
+    "id": 1,
+    "title": "IamSushi#5836"
+  },
+  {
+    "id": 2,
+    "title": "Moderator+#4797"
+  },
+  {
+    "id": 3,
+    "title": "Config"
+  }
+]
