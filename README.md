@@ -7,7 +7,7 @@
 	> **/warnings** - check user warnings
 	> **/warnclear* - delete user warnings
 	> **/lock** [LOCK AN CHANNEL, SO OTHERS CAN'T TYPE THERE]
-	> **/unlock** [UNLOCK AN CHANNEL, SO OTHERS CAN'T TYPE THERE]
+	> **/unlock** [UNLOCK AN CHANNEL, SO OTHERS CAN TYPE THERE]
 	> **/mute and /unmute** - mute an user
 
 	> **/purge** - bulk some messages
